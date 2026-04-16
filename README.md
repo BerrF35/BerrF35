@@ -13,7 +13,7 @@ I'm an Information Technology and Software Engineering student currently buildin
 - 🎓 **Studying:** IT at Vellore Institute of Technology (VIT).
 - 💻 **Currently Building:** Scalable web platforms and hackathon projects. Recently worked on **PustakLink** (a hyper-local student textbook marketplace) at VinHack 2025 and **Quick Gigs**.
 - 🎥 **Beyond Code:** Deeply passionate about high-end digital imaging, cinematography, and automotive visualization (especially Mercedes-Benz and Porsche). I also love rendering realistic botanical environments, like the Indian Laburnum and Copperpod trees!
-- 📫 **How to reach me:** [Insert Email/LinkedIn Here]
+- 📫 **How to reach me:** jaijiteshsp@gmail.com
 
 ---
 
