@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=250&section=header&text=Jaijitesh%20Suryaprakash&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Visual%20Technologist&descAlignY=55&descAlign=60&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=250&section=header&text=Jaijitesh%20Suryaprakash&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Information%20Technology%20%7C%20Software%20Engineering&descAlignY=55&descAlign=60&descSize=20" width="100%" />
 
   <a href="https://github.com/BerrF35">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Information+Technology+Undergrad+%40+VIT+Vellore;Full-Stack+Developer+%7C+Python,+React,+FastAPI;Cinematography+%26+High-Fidelity+Visualization+Enthusiast;Building+Scalable,+Data-Driven+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Information+Technology+Undergrad+%40+VIT+Vellore;Full-Stack+Developer+%7C+Python,+React,+FastAPI;Backend+Architecture+%26+Systems+Engineering;Building+Scalable,+Data-Driven+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <h3>🚀 System Initialization...</h3>
+  <h3>System Initialization</h3>
   <p align="center">
-    I am an IT and Software Engineering student bridging the gap between scalable back-end architectures and high-fidelity visual front-ends. Whether I'm designing hyper-local marketplaces or rendering cinematic automotive visualizations, I focus on precision, speed, and clean code.
+    I am an Information Technology student specializing in Software Engineering and scalable backend architectures. I focus on developing high-performance platforms, optimizing full-stack workflows, and building data-driven systems with a focus on precision and performance.
   </p>
 </div>
 
 <br>
 
 <div align="center">
-  <h2>📊 Advanced GitHub Telemetry</h2>
-  <p><i>Real-time system diagnostics generated via GitHub Actions</i></p>
+  <h2>Advanced GitHub Telemetry</h2>
+  <p><i>System diagnostics generated via GitHub Actions</i></p>
   
   <table border="0">
     <tr>
@@ -56,24 +56,20 @@
 
   <br>
 
-  <details>
-    <summary><b>🏆 System Achievements & Extra Diagnostics</b></summary>
-    <br>
-    <div align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=BerrF35&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=5" alt="Trophies" width="100%"/>
-      </a>
-    </div>
-  </details>
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=BerrF35&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15&column=5" alt="Trophies" width="100%"/>
+    </a>
+  </div>
 </div>
 
 <br>
 
 <div align="center">
-  <h2>⚙️ Technical Arsenal</h2>
+  <h2>Technical Arsenal</h2>
   
   <p align="center">
-    <b>Frontend & Design Architecture</b><br>
+    <b>Frontend and Design Architecture</b><br>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -81,7 +77,7 @@
   </p>
 
   <p align="center">
-    <b>Backend & Database Engineering</b><br>
+    <b>Backend and Database Engineering</b><br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -92,53 +88,42 @@
 <br>
 
 <div align="center">
-  <h2>🔬 Production & Prototypes</h2>
+  <h2>Production and Prototypes</h2>
 </div>
 
 <details open>
-  <summary><b>🛠️ Full-Stack & Systems Engineering</b></summary>
+  <summary><b>Full-Stack and Systems Engineering</b></summary>
   <br>
   <table>
     <tr>
       <td width="33%" valign="top">
-        <b>🤖 GestureControlPC</b><br>
+        <b>GestureControlPC</b><br>
         <p>A computer vision interface utilizing OpenCV and MediaPipe to allow users to control their PC environments entirely through hand gestures and winks.</p>
       </td>
       <td width="33%" valign="top">
-        <b>📚 PustakLink (VinHack 2025)</b><br>
+        <b>PustakLink (VinHack 2025)</b><br>
         <p>A scalable, hyper-local marketplace prototype designed strictly for students to trade textbooks efficiently within their university ecosystem.</p>
       </td>
       <td width="33%" valign="top">
-        <b>🌬️ Windsim</b><br>
+        <b>Windsim</b><br>
         <p>A physics-driven web simulation that calculates and visualizes how varied wind parameters interact with real-world, day-to-day objects.</p>
       </td>
     </tr>
     <tr>
       <td width="33%" valign="top">
-        <b>🔗 Agrichain</b><br>
+        <b>Agrichain</b><br>
         <p>A blockchain-oriented prototype aimed at establishing transparent, immutable food traceability throughout agricultural supply chains.</p>
       </td>
       <td width="33%" valign="top">
-        <b>💼 Quick Gigs</b><br>
+        <b>Quick Gigs</b><br>
         <p>A specialized marketplace website prototype designed with a highly organized file structure, built for a competitive technical pitch.</p>
       </td>
       <td width="33%" valign="top">
-        <b>✈️ Air Ticket System</b><br>
+        <b>Air Ticket System</b><br>
         <p>A command-based reservation system built in Python, featuring robust admin profiling and database management.</p>
       </td>
     </tr>
   </table>
-</details>
-
-<details>
-  <summary><b>🎥 High-End Digital Visualization & Cinematography</b></summary>
-  <br>
-  <p>Beyond traditional coding, I specialize in generating and prompting highly technical, photorealistic visual outputs. This requires a deep understanding of lighting parameters, shutter speeds, and rendering constraints.</p>
-  <ul>
-    <li><b>Automotive Design:</b> Cinematic framing and environmental visualization for high-performance vehicles, with a particular focus on the engineering aesthetics of <b>Porsche (911 GT3 RS)</b> and <b>Mercedes-Benz (C220d)</b>.</li>
-    <li><b>Technical Cinematography:</b> Directing 4K and 8K visual generations with professional-grade color grading and exact camera specifications.</li>
-    <li><b>Botanical Rendering:</b> Creating highly accurate, structurally precise environmental designs, focusing on species like the Indian Laburnum (Cassia fistula) and Copperpod trees under specific natural lighting conditions.</li>
-  </ul>
 </details>
 
 <br>

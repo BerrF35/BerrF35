@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Update automatically every 24 hours
   schedule: [{cron: "0 0 * * *"}]
-  # Allow manual triggering
   workflow_dispatch:
-  # Update on every push to the master/main branch
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -13,8 +10,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Step 1: Header/Basics
-      - name: Header & Base Stats
+      - name: Header and Base Stats
         uses: lowlighter/metrics@latest
         with:
           filename: header.svg
@@ -22,7 +18,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
 
-      # Step 2: Isometric Calendar (3D View)
       - name: Isometric Calendar
         uses: lowlighter/metrics@latest
         with:
@@ -32,8 +27,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      # Step 3: Detailed Languages
-      - name: Languages & Topics
+      - name: Languages and Topics
         uses: lowlighter/metrics@latest
         with:
           filename: languages.svg
@@ -47,8 +41,7 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: icons
 
-      # Step 4: Coding Habits
-      - name: Coding Habits & Activity
+      - name: Coding Habits and Activity
         uses: lowlighter/metrics@latest
         with:
           filename: habits.svg
@@ -56,12 +49,11 @@ jobs:
           base: ""
           config_timezone: Asia/Kolkata
           plugin_habits: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 100
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-      # Step 5: Achievements
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
@@ -70,4 +62,4 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
