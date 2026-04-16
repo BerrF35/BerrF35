@@ -9,65 +9,62 @@
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%" valign="top">
-        <h3>🚀 System Initialization...</h3>
-        <p>I am an IT and Software Engineering student bridging the gap between scalable back-end architectures and high-fidelity visual front-ends. Whether I'm designing hyper-local marketplaces or rendering cinematic automotive visualizations, I focus on precision, speed, and clean code.</p>
-        
-        <h4>Currently Executing:</h4>
-        <ul>
-          <li>🎓 Engineering my IT degree at the <b>Vellore Institute of Technology (VIT)</b>.</li>
-          <li>💻 Architecting data-dependent platforms like <b>PustakLink</b> (a hyper-local student marketplace) and <b>Quick Gigs</b>.</li>
-          <li>🛠️ Optimizing full-stack workflows using <b>React, Tailwind, FastAPI, Python, and SQLite</b>.</li>
-        </ul>
-      </td>
-      <td width="40%" valign="top">
-        <h3>📍 Telemetry</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Location-Vellore,%20India-06B6D4?style=for-the-badge&logo=google-maps&logoColor=white" /><br><br>
-          <img src="https://img.shields.io/badge/Education-VIT_Vellore-3B82F6?style=for-the-badge&logo=academia&logoColor=white" /><br><br>
-          <img src="https://img.shields.io/badge/Focus-Full_Stack_Dev-10B981?style=for-the-badge&logo=react&logoColor=white" /><br><br>
-          <img src="https://img.shields.io/badge/Focus-Visual_Tech-8B5CF6?style=for-the-badge&logo=blender&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
+  <h3>🚀 System Initialization...</h3>
+  <p align="center">
+    I am an IT and Software Engineering student bridging the gap between scalable back-end architectures and high-fidelity visual front-ends. Whether I'm designing hyper-local marketplaces or rendering cinematic automotive visualizations, I focus on precision, speed, and clean code.
+  </p>
 </div>
 
 <br>
 
 <div align="center">
   <h2>📊 Advanced GitHub Telemetry</h2>
-  <p><i>Auto-generated daily via GitHub Actions</i></p>
+  <p><i>Real-time system diagnostics generated via GitHub Actions</i></p>
   
-  <img src="https://raw.githubusercontent.com/BerrF35/BerrF35/main/github-metrics.svg" alt="GitHub Metrics Core" width="100%">
-  
-  <br><br>
-  
-  <table>
+  <table border="0">
     <tr>
-      <td width="50%" valign="top" align="center">
-        <img src="https://raw.githubusercontent.com/BerrF35/BerrF35/main/github-metrics-languages.svg" alt="Metrics Languages" width="100%">
+      <td width="440" valign="top">
+        <img src="https://raw.githubusercontent.com/BerrF35/BerrF35/main/header.svg" width="440" />
       </td>
-      <td width="50%" valign="top" align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=BerrF35&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=3" alt="Trophies" width="100%"/>
+      <td width="440" valign="top">
+        <img src="https://raw.githubusercontent.com/BerrF35/BerrF35/main/isocalendar.svg" width="440" />
+      </td>
+    </tr>
+    <tr>
+      <td width="440" valign="top">
+        <img src="https://raw.githubusercontent.com/BerrF35/BerrF35/main/languages.svg" width="440" />
+      </td>
+      <td width="440" valign="top">
+        <img src="https://raw.githubusercontent.com/BerrF35/BerrF35/main/achievements.svg" width="440" />
+      </td>
+    </tr>
+    <tr>
+      <td width="440" valign="top">
+        <img src="https://raw.githubusercontent.com/BerrF35/BerrF35/main/habits.svg" width="440" />
+      </td>
+      <td width="440" valign="top">
+        <a href="https://github.com/BerrF35">
+          <img src="https://github-readme-stats.vercel.app/api?username=BerrF35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=06B6D4" width="440" />
+        </a>
+        <br>
+        <a href="https://github.com/BerrF35">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=BerrF35&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4" width="440" />
         </a>
       </td>
     </tr>
   </table>
 
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=BerrF35&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=06B6D4" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BerrF35&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4" alt="GitHub Streak" width="100%"/>
-      </td>
-    </tr>
-  </table>
+  <br>
+
+  <details>
+    <summary><b>🏆 System Achievements & Extra Diagnostics</b></summary>
+    <br>
+    <div align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=BerrF35&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=5" alt="Trophies" width="100%"/>
+      </a>
+    </div>
+  </details>
 </div>
 
 <br>
