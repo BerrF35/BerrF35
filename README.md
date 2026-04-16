@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <h3>System Initialization</h3>
+  <h3>About me</h3>
   <p align="center">
     I am an Information Technology student specializing in Software Engineering and scalable backend architectures. I focus on developing high-performance platforms, optimizing full-stack workflows, and building data-driven systems with a focus on precision and performance.
   </p>
